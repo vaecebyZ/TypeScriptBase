@@ -85,4 +85,4 @@ sanka.seyHellow()
 sanka.work()
 // 直接调用父类方法
 console.log(sanka.toString());
-
+// 今天没啥写的画条鱼吧 <*)))>{ QAQ...
